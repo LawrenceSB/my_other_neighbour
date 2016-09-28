@@ -1,0 +1,39 @@
+  $black: #000000;
+body {
+  background-color: $black;
+}
+
+img {
+  display:block;
+  margin: 0 auto;
+}
+h1 {
+  color: red;
+  margin-left:820px
+}
+h2 {
+  color: green;
+  margin-left:820px
+}
+h3 {
+  color: brown;
+  margin-left:820px
+}
+li {
+  color: #228B22;
+  margin-left:620px
+}
+.red{ color: red;
+  margin-left:620px
+}
+.blue{ color; blue;
+  margin-left:620px
+}
+.header {
+  width: 100%;
+  height: 300px;
+  background-image: url("https://v.cdn.vine.co/r/thumbs/A90CD5A5A41299226030531563520_SW_WEBM_1452733833102_image.jpg?versionId=AcK718h1G.rRRw5hKPJ8LryTGDLOl0PF")
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 35%;
+}
